@@ -1,8 +1,16 @@
+# Setup Info
+
 # React + Vite
+# STEP1: npm create vite@latest
+# step2: select framework as react
+# STEP3: provide project name
+# STEP4: cd project-name
+# STEP5: npm install //to install all dependency
+# STEP3 : npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- https://babeljs.io/       //compile jsx into javascript -->
 
-Currently, two official plugins are available:
+# Dependency installation
+# npm install bootstrap     //to use bootstrap, install dependency 
+# npm i bootstrap-icons      // this dependency for icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
